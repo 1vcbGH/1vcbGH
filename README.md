@@ -31,8 +31,8 @@ _“I write code”_
 ⛧ Databases </br>
 
 #### ☍ <i>Open DMS for works</i>
-#####⛧ Discord @1vcb </br>
-#####⛧ Gmail mc.1vcb@gmail.com </br>
+####⛧ Discord @1vcb </br>
+####⛧ Gmail mc.1vcb@gmail.com </br>
 ---
 
 ### ☍ Social networks
