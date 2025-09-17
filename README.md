@@ -30,7 +30,7 @@ _“I write code”_
 ⛧ Minecraft Network server </br>
 ⛧ Databases </br>
 
-# ☍ <i>Open DMS for works</i> 
+#### ☍ <i>Open DMS for works</i> 
 ---
 
 ### ☍ Social networks
