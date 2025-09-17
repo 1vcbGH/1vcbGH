@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[[https://avatars.githubusercontent.com/u/108166164?v=4](https://avatars.githubusercontent.com/u/108166164?v=4)](https://github.com/account)" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;"/>
+<img src="https://avatars.githubusercontent.com/u/143004358?s=400&u=b683973fc13fe11845695351a062a32cc87de827&v=4" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;"/>
 
 ⛧⛧⛧  
 # 🜏 𝙲𝚘𝚍𝚎 • 𝚂𝚎𝚖𝚒𝙵𝚞𝚕𝚕𝚂𝚝𝚊𝚌𝚔  
