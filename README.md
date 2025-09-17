@@ -30,7 +30,9 @@ _“I write code”_
 ⛧ Minecraft Network server </br>
 ⛧ Databases </br>
 
-#### ☍ <i>Open DMS for works</i> 
+#### ☍ <i>Open DMS for works</i>
+⛧ Discord @1vcb
+⛧ Gmail mc.1vcb@gmail.com
 ---
 
 ### ☍ Social networks
