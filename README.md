@@ -16,7 +16,7 @@ _“I write code”_
 
 ⛧ Programming Languages: Python · JavaScript · Nodejs · HTML · CSS </br>
 ⛧ Technologies & Tools: Git · Docker </br>
-⛧ Operating Systems: Linux (Fedora · Linux Mint) · Windows 10 · Windows 11 </br>
+⛧ Operating Systems: Windows 10 </br>
 
 ### ☍ Experience
 
