@@ -18,6 +18,16 @@ _“I write code”_
 ⛧ Technologies & Tools: Git · Docker </br>
 ⛧ Operating Systems: Linux (Fedora · Linux Mint) · Windows 10 · Windows 11 </br>
 
+### ☍ Experience
+⛧ Ex Minecraft Dev
+⛧ Web Dev
+⛧ Cheat Dev
+
+### ☍ Working on
+⛧ CS2 External & Internal Cheats
+⛧ Minecraft Network server
+⛧ Databases
+
 ---
 
 ### ☍ Social networks
