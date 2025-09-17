@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/143004358?s=400&u=b683973fc13fe11845695351a062a32cc87de827&v=4" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;"/>
 
 ⛧⛧⛧  
-# 🜏 𝙲𝚘𝚍𝚎 • 𝚂𝚎𝚖𝚒𝙵𝚞𝚕𝚕𝚂𝚝𝚊𝚌𝚔  
+# 🜏 Developer For Fun •  
 ⛧⛧⛧
 
 _“I write code”_
@@ -14,7 +14,7 @@ _“I write code”_
 
 ### ☍ Tools of Choice
 
-⛧ Programming Languages: Python · JavaScript · TypeScript · Go </br>
+⛧ Programming Languages: Python · JavaScript · Nodejs · HTML · CSS </br>
 ⛧ Technologies & Tools: Git · Docker </br>
 ⛧ Operating Systems: Linux (Fedora · Linux Mint) · Windows 10 · Windows 11 </br>
 
@@ -22,8 +22,7 @@ _“I write code”_
 
 ### ☍ Social networks
 
-- 🜂 [Website](https://staff6773.github.io/)
-- 🜃 [Discord](https://discord.com/users/962589013921918996)
-- 🜏 [Youtube](https://www.youtube.com/@not_staff6722)
+- 🜂 [Website](https://1vcb.com/)
+- 🜃 [Discord](https://discord.com/users/955230533137367100)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/962589013921918996)](https://discord.com/users/962589013921918996)
+[![Discord Presence](https://lanyard.cnrad.dev/api/955230533137367100)](https://discord.com/users/955230533137367100)
