@@ -25,11 +25,10 @@ _“I write code”_
 ⛧ Cheat Dev </br>
 
 ### ☍ Working on
-⛧ <i>PHANTOMTURNER CHEAT</i> </br>
+⛧ <i>BlackNova Development...</i> </br>
 
 ⛧ CS2 External & Internal Cheats </br>
 ⛧ Minecraft Network server </br>
-⛧ Databases </br>
 
 ### ☍ <i>Open DMS for works</i>
 ⛧ Discord @1vcb </br>
