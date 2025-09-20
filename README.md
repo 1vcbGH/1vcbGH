@@ -1,43 +1,60 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/143004358?s=400&u=b683973fc13fe11845695351a062a32cc87de827&v=4" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px;"/>
+<img src="https://avatars.githubusercontent.com/u/143004358?s=400&u=b683973fc13fe11845695351a062a32cc87de827&v=4" 
+     alt="Profile Photo" width="150" style="border-radius: 50%;" />
+
+---
+
+# 🜏 Developer For Fun 🜏
+
+_“I write code, break limits & build things.”_
 
 ⛧⛧⛧  
-# 🜏 Developer For Fun •  
-⛧⛧⛧
 
-_“I write code”_
+[![Website](https://img.shields.io/badge/🌐-Website-8b5cf6?style=for-the-badge)](https://1vcb.com/)
+[![Discord](https://img.shields.io/badge/💬-Discord-5865F2?style=for-the-badge)](https://discord.com/users/955230533137367100)
 
 </div>
 
 ---
 
-### ☍ Tools of Choice
+## ⚒️ Tools of Choice
+- **Languages:** Python · JavaScript · Node.js · HTML · CSS  
+- **Technologies & Tools:** Git · Docker  
+- **OS:** Windows 10  
 
-⛧ Programming Languages: Python · JavaScript · Nodejs · HTML · CSS </br>
-⛧ Technologies & Tools: Git · Docker </br>
-⛧ Operating Systems: Windows 10 </br>
-
-### ☍ Experience
-
-⛧ Ex Minecraft Dev </br>
-⛧ Web Dev </br>
-⛧ Cheat Dev </br>
-
-### ☍ Working on
-⛧ <i>BlackNova Development...</i> </br>
-
-⛧ CS2 External & Internal Cheats </br>
-⛧ Minecraft Network server </br>
-
-### ☍ <i>Open DMS for works</i>
-⛧ Discord @1vcb </br>
-⛧ Gmail mc.1vcb@gmail.com </br>
 ---
 
-### ☍ Social networks
+## 🧩 Experience
+- ⛧ Former **Minecraft Developer**  
+- ⛧ **Web Developer** (front & back)  
+- ⛧ **Cheat Developer** (research & coding)  
 
-- 🜂 [Website](https://1vcb.com/)
-- 🜃 [Discord](https://discord.com/users/955230533137367100)
+---
 
+## 🚀 Currently Working On
+- 🜏 **BlackNova Development**  
+- 🜏 **CS2 External & Internal Cheats**  
+- 🜏 **Minecraft Network Server**  
+
+---
+
+## 📬 Contact
+- ⛧ Discord: **[@1vcb](https://discord.com/users/955230533137367100)**  
+- ⛧ Gmail: **mc.1vcb@gmail.com**  
+
+> _Open DMs for collaborations, commissions or ideas._
+
+---
+
+## 🌐 Social
+[![Website](https://img.shields.io/badge/-Website-8b5cf6?style=flat&logo=google-chrome&logoColor=white)](https://1vcb.com/)  
 [![Discord Presence](https://lanyard.cnrad.dev/api/955230533137367100)](https://discord.com/users/955230533137367100)
+
+---
+
+<div align="center">
+
+✨ _Thanks for visiting my profile. Stay curious, keep coding._ ✨
+
+</div>
