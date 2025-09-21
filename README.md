@@ -33,7 +33,7 @@ _“I write code, break limits & build things.”_
 ---
 
 ## 🚀 Currently Working On
-- 🜏 **BlackNova Development**  
+- 🜏 **[BlackNova Development](https://dev.blacknova.cc/)** 
 - 🜏 **CS2 External & Internal Cheats**  
 - 🜏 **Minecraft Network Server**  
 
