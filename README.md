@@ -48,7 +48,7 @@ _“I write code, break limits & build things.”_
 ---
 
 ## 🌐 Social
-[![Website](https://img.shields.io/badge/-Website-8b5cf6?style=flat&logo=google-chrome&logoColor=white)](https://1vcb.com/)  
+[![Website](https://img.shields.io/badge/-Website-8b5cf6?style=flat&logo=google-chrome&logoColor=white)](https://1vcb.netlify.app/)  
 [![Discord Presence](https://lanyard.cnrad.dev/api/955230533137367100)](https://discord.com/users/955230533137367100)
 
 ---
