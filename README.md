@@ -48,7 +48,7 @@ _“I write code, break limits & build things.”_
 
 ---
 <p align="center">
-  <a href="## 🌐 Social" target="_blank" rel="nofollow">
+  <a href="<strong> 🌐 Social</strong>" target="_blank" rel="nofollow">
   </a>
 ## 🌐 Social
 <p align="center">
