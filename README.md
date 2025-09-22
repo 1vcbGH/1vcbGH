@@ -12,6 +12,7 @@ _“I write code, break limits & build things.”_
 ⛧⛧⛧  
 
 [![Website](https://img.shields.io/badge/🌐-Website-8b5cf6?style=for-the-badge)](https://1vcb.netlify.app/)
+[![BlackNova](https://img.shields.io/badge/🌐-Website-8b5cf6?style=for-the-badge)](https://dev.blacknova.cc)
 [![Discord](https://img.shields.io/badge/💬-Discord-5865F2?style=for-the-badge)](https://discord.com/users/955230533137367100)
 
 </div>
