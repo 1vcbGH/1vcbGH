@@ -47,9 +47,10 @@ _“I write code, break limits & build things.”_
 > _Open DMs for collaborations, commissions or ideas._
 
 ---
-
+<p align="center">
+  <a href="## 🌐 Social" target="_blank" rel="nofollow">
+  </a>
 ## 🌐 Social
-[![Website](https://img.shields.io/badge/-Website-8b5cf6?style=flat&logo=google-chrome&logoColor=white)](https://1vcb.netlify.app/)  
 <p align="center">
   <a href="https://discord.com/users/955230533137367100" target="_blank" rel="nofollow">
     <img align="center" src="https://lanyard-profile-readme.vercel.app/api/955230533137367100?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
