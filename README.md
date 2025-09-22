@@ -47,13 +47,15 @@ _“I write code, break limits & build things.”_
 > _Open DMs for collaborations, commissions or ideas._
 
 ---
-<p align="center">
-  <a href="<strong>🌐 Social</strong>" target="_blank" rel="nofollow">
-  </a>
+<h3 align="center">🌐 Social</h3>
 <p align="center">
   <a href="https://discord.com/users/955230533137367100" target="_blank" rel="nofollow">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/955230533137367100?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+    <img align="center" 
+         src="https://lanyard-profile-readme.vercel.app/api/955230533137367100?&animated=true&borderRadius=30px&idleMessage=Nothing..." 
+         alt="Discord Presence">
   </a>
+</p>
+
 
 ---
 
