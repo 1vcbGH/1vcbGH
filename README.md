@@ -48,9 +48,8 @@ _“I write code, break limits & build things.”_
 
 ---
 <p align="center">
-  <a "<strong> 🌐 Social</strong>">
+  <a href="<strong>🌐 Social</strong>" target="_blank" rel="nofollow">
   </a>
-## 🌐 Social
 <p align="center">
   <a href="https://discord.com/users/955230533137367100" target="_blank" rel="nofollow">
     <img align="center" src="https://lanyard-profile-readme.vercel.app/api/955230533137367100?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
