@@ -44,7 +44,7 @@ _“I write code, break limits & build things.”_
 - ⛧ Discord: **[@1vcb](https://discord.com/users/955230533137367100)**  
 - ⛧ Gmail: **mc.1vcb@gmail.com**  
 
-## 📬 Contact
+## 🌌
 - ⛧ “Loyalty is a two-way streat
 - ⛧ If i'm asking for it from you
 - ⛧ then you're getting it from me”
