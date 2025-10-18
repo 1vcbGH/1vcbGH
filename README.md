@@ -46,6 +46,10 @@ _“I write code, break limits & build things.”_
 
 > _Open DMs for collaborations, commissions or ideas._
 
+> _“Loyalty is a two-way streat._
+> _If i'm asking for it from you._
+> _then you're getting it from me”._
+
 ---
 <h3 align="center">🌐 Social</h3>
 <p align="center">
