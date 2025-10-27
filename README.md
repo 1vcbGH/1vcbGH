@@ -22,7 +22,7 @@ _“I write code, break limits & build things.”_
 ## ⚒️ Tools of Choice
 - **Languages:** Python · JavaScript · Node.js · HTML · CSS  
 - **Technologies & Tools:** Git · Docker  
-- **OS:**Kali Linux  · Windows 10
+- **OS:** Kali Linux  · Windows 10
 
 ---
 
