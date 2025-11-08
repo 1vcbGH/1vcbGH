@@ -65,7 +65,8 @@ My work spans **network engineering**, **interface design**, and **system automa
 
 <div align="center">
 
-🜏 _Driven by logic. Refined by design._  
+🜏 _There is a difference between being_
+     _obsessed and being motivated._
 **BlackNova Development**
 
 </div>
