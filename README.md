@@ -8,7 +8,7 @@
 # 1vcb — Software Developer  
 
 [![Website](https://img.shields.io/badge/🌐-Portfolio-8b5cf6?style=for-the-badge)](https://1vcb.netlify.app/)
-[![BlackNova](https://img.shields.io/badge/🜏-BlackNova_Development-23036b?style=for-the-badge)](https://dev.blacknova.cc)
+[![BlackNova](https://img.shields.io/badge/🜏-BlackNova_Development-23036b?style=for-the-badge)](https://blacknova.cc)
 [![Discord](https://img.shields.io/badge/💬-Discord-5865F2?style=for-the-badge)](https://discord.com/users/955230533137367100)
 
 </div>
@@ -50,7 +50,7 @@ My work spans **network engineering**, **interface design**, and **system automa
 
 ---
 
-<h3 align="center">🜏 Discord Presence</h3>
+<h3 align="center">Discord Presence</h3>
 <p align="center">
   <a href="https://discord.com/users/955230533137367100" target="_blank" rel="nofollow">
     <img align="center" 
