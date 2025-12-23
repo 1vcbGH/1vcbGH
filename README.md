@@ -5,7 +5,7 @@
 
 ---
 
-# 🜏 1VCB — Software Developer  
+# 1vcb — Software Developer  
 _“Precision. Consistency. Innovation.”_
 
 [![Website](https://img.shields.io/badge/🌐-Portfolio-8b5cf6?style=for-the-badge)](https://1vcb.netlify.app/)
@@ -48,7 +48,9 @@ My work spans **network engineering**, **interface design**, and **system automa
 
 ## 📬 Contact
 - **Discord:** [@1vcb](https://discord.com/users/955230533137367100)  
-- **Email:** mc.1vcb@gmail.com  
+- **BlackNova**: [blacknova.cc](http://blacknova.cc)
+- **Twitter**: [@1vcb_](https://twitter.com/1vcb_)
+- **Email**: [mc.1vcb@gmail.com](mailto:mc.1vcb@gmail.com)
 
 ---
 
