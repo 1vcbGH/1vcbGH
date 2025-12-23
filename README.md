@@ -6,7 +6,6 @@
 ---
 
 # 1vcb — Software Developer  
-_“Precision. Consistency. Innovation.”_
 
 [![Website](https://img.shields.io/badge/🌐-Portfolio-8b5cf6?style=for-the-badge)](https://1vcb.netlify.app/)
 [![BlackNova](https://img.shields.io/badge/🜏-BlackNova_Development-23036b?style=for-the-badge)](https://dev.blacknova.cc)
@@ -23,27 +22,24 @@ My work spans **network engineering**, **interface design**, and **system automa
 ---
 
 ## ⚙️ Tech Stack
-- **Languages:** Python · JavaScript · TypeScript · C# · HTML · CSS · SQL · Bash  
+- **Languages:** Python · JavaScript · TypeScript · C# · HTML · CSS · SQL · Bash · Java
 - **Frameworks & Tools:** Node.js · Flask · Docker · Git · Auth0 · MySQL · REST APIs  
-- **Operating Systems:** Kali Linux · Debian · Windows 10  
+- **Operating Systems:** Kali Linux · Windows 10  
 
 ---
 
 ## 💼 Professional Focus
-- 🔹 **Software Security & VPN Solutions**  
+- 🔹 **Software Security**  
 - 🔹 **License Systems & Authentication APIs**  
-- 🔹 **Custom Interfaces (PyQt / Electron)**  
+- 🔹 **Custom Interfaces (PyQt)**  
 - 🔹 **Backend Automation & Server Management**  
 
 ---
 
 ## 🚀 Active Projects
-- 🜏 [**BlackNova Development**](https://dev.blacknova.cc) — Core Software Ecosystem  
-- 🜏 **BNovaShield VPN** — Private Staff Client & Secure Gateway  
-- 🜏 **SapphireAim CS2** — External / Internal Framework  
-- 🜏 **BlackNova License Panel** — License Verification & Dashboard  
-- 🜏 **EclipseAIM** — Multi-Platform Security Project  
-
+- [**BlackNova Development**](https://blacknova.cc) — Core Software Ecosystem  
+- **BNMC Dev** — Building high-quality software for professional Minecraft networks
+  
 ---
 
 ## 📬 Contact
