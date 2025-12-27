@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/143004358?s=400" width="120" style="border-radius:50%" />
 
 # 1vcb  
-Software Developer
+Software Developer · Minecraft Plugin Developer
 
 [Website](https://1vcb.netlify.app) · [BlackNova](https://blacknova.cc) · [Discord](https://discord.com/users/955230533137367100)
 
@@ -12,29 +12,31 @@ Software Developer
 ---
 
 ### About
-Self-taught developer focused on **secure systems**, **clean backends**, and **modern interfaces**.  
-I build tools that are meant to last — not demos.
+Software developer focused on building **high-quality Minecraft plugins** and backend tools that power real servers.
+
+I care about clean code, good performance, and systems that are easy to configure and maintain.
 
 ---
 
 ### What I work on
-- License & authentication systems  
-- Backend APIs & automation  
-- Custom desktop interfaces (PyQt)  
-- Infrastructure & server tooling  
+- Minecraft plugin development (Spigot / Paper / Purpur)  
+- Custom gameplay systems & server features  
+- Backend tools for game servers  
+- Web panels & dashboards for server management  
 
 ---
 
 ### Stack
-**Python, Java, JavaScript/TypeScript, SQL**  
-Flask · Node.js · Docker · Auth0 · MySQL · REST  
+**Java, Python, JavaScript / TypeScript, HTML, CSS, SQL**  
+Spigot · Paper · Purpur · Node.js · Flask  
+MySQL · REST APIs  
 Linux & Windows
 
 ---
 
 ### Projects
-- **BlackNova Development** — software ecosystem & infrastructure  
-- **BNMC Dev** — tools for professional Minecraft networks  
+- **BlackNova Development** — software & infrastructure for game servers  
+- **BNMC Dev** — plugins and tools for professional Minecraft networks  
 
 ---
 
@@ -45,4 +47,4 @@ Linux & Windows
 
 ---
 
-> Building things properly is faster than fixing them later.
+> Doing big things.
