@@ -43,7 +43,7 @@ Linux & Windows
 ### Contact
 - Discord: **@1vcb**  
 - Website: https://blacknova.cc  
-- Email: mc.1vcb@gmail.com  
+- Email: ceo@blacknova.cc 
 
 ---
 
