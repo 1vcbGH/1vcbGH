@@ -40,7 +40,7 @@ Linux & Windows
 
 ---
 
-### Contact
+### Contact (OPEN COMITS)
 - Discord: **@1vcb**  
 - Website: https://blacknova.cc  
 - Email: ceo@blacknova.cc 
@@ -52,5 +52,3 @@ Linux & Windows
 > perdido lo que mas apreciaba y bueno, ahora soy bueno en esto.
 
 ---
-
-### Open Comits
