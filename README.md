@@ -49,6 +49,7 @@ Linux & Windows
 
 > Realmente no disfruto lo que hago, pero tuve que obligarme
 > a mantenerme ocupado para no volverme loco por haber
-> perdido lo que mas apreciaba y bueno, ahora soy bueno en esto.
+> perdido lo que mas amaba y bueno, ahora soy bueno en esto.
+> <3
 
 ---
