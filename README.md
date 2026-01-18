@@ -1,7 +1,7 @@
 <div align="center">
 
 # 1vcb  
-Software Developer · Minecraft Plugin Developer 
+*Software Developer · Minecraft Plugin Developer* 
 </div>
 
 ### Working on: 
