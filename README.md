@@ -4,6 +4,8 @@
 Software Developer · Minecraft Plugin Developer 
 </div>
 ---
+
+### Projects
 CEO | blacknova.cc
 1vcb@blacknova.cc
 ---
