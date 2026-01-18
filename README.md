@@ -3,7 +3,6 @@
 # 1vcb  
 Software Developer · Minecraft Plugin Developer 
 </div>
----
 
 ### Project: 
 
