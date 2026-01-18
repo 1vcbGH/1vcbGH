@@ -7,13 +7,12 @@ Software Developer · Minecraft Plugin Developer
 ### Project: 
 
 - CEO at blacknova.cc
-- Dev at elderflame.net
+- DEV at elderflame.net
 
 ---
 
 ### Contact (OPEN COMITS)
-- Discord: **@1vcb**  
-- Website: https://blacknova.cc  
+- Discord: **@1vcb** 
 - Email: 1vcb@blacknova.cc 
 
 ---
