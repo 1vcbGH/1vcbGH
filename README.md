@@ -4,10 +4,11 @@
 Software Developer · Minecraft Plugin Developer 
 </div>
 
-### Project: 
+### Working on: 
 
 - CEO at blacknova.cc
-- DEV at elderflame.net
+- Developer at elderflame.net
+- ??? *(Can be your server 😉)*
 
 ---
 
