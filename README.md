@@ -11,7 +11,7 @@ Software Developer · Minecraft Plugin Developer
 
 ---
 
-### Contact (OPEN COMITS)
+### Contact (Open comits)
 - Discord: **@1vcb** 
 - Email: 1vcb@blacknova.cc 
 
