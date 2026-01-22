@@ -6,7 +6,7 @@
 
 ### Working on: 
 
-- CEO at blacknova.cc
+- CEO at blacknova.cc (dsc.gg/blacknova)
 - Developer at elderflame.net
 - ??? *(Can be your server 😉)*
 
