@@ -48,7 +48,7 @@
 ---
 
 ### Contact (Open comits)
-- Discord: **@1vcb** 
+- ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square): **@1vcb** 
 - Email: 1vcb@blacknova.cc 
 
 ---
