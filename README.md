@@ -49,7 +49,8 @@
 <h4 align="left">Contact me</h4>
 
 <p align="left">
-<a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a> : **@1vcb** 
+<a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a> : @1vcb
+ 
 <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square"></a> : 1vcb@blacknova.cc 
 
 ---
