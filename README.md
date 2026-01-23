@@ -11,9 +11,9 @@
 
 ---
 
-<h4 align="center">Programming languages</h4>
+<h4 align="right">Programming languages</h4>
 
-<p align="center">
+<p align="right">
 <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"></a>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
