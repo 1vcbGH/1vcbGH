@@ -1,7 +1,7 @@
 <div align="center">
 
 # 1vcb  
-*Software Developer · Minecraft Plugin Developer* 
+ <p><em>CEO and FullTime Developer at <a href="https://dsc.gg/blacknova">BlackNova</a>
 </div>
 
 ### Working on: 
