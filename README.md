@@ -16,7 +16,9 @@
 - Java, C++, C#, TypeScript, Node.js, Python, MySQL, 
 - HTML, CSS, PyQt5, Flask, React, TailwindCSS & BootStrap.
 
-## Software:
+---
+
+### Software:
 
 - Ubuntu, Debian, Kali, Idle, Visual Studio Code &
 - Nginx.
