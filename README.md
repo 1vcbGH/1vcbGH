@@ -20,8 +20,7 @@
 
 ### Software:
 
-- Ubuntu, Debian, Kali, Idle, Visual Studio Code &
-- Nginx.
+- Ubuntu, Debian, Kali, Idle, Visual Studio Code & Nginx.
 
 ---
 
