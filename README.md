@@ -28,7 +28,6 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <img alt=".NET" src="https://img.shields.io/badge/Dotnet-512BD4.svg?logo=dotnet&logoColor=white"></a>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
-<img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
 <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52.svg?logo=qt&logoColor=white"></a>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwind-css&logoColor=white"></a>
 </p>
