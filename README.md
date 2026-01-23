@@ -48,7 +48,7 @@
 ---
 
 ### Contact (Open comits)
-- ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square) **@1vcb** 
-- ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square) 1vcb@blacknova.cc 
+- ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square): **@1vcb** 
+- ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square): 1vcb@blacknova.cc 
 
 ---
