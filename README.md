@@ -4,7 +4,7 @@
  <p>CEO and FullTime Developer at <a href="https://dsc.gg/blacknova">BlackNova</a></p>
 </div>
 
-### Working on: 
+<h4 align="left">Working on</h4> 
 
 - CEO at blacknova.cc (dsc.gg/blacknova)
 - Developer at elderflame.net
@@ -47,7 +47,7 @@
 
 ---
 
-### Contact (Open comits)
+<h4 align="left">Contact (Open Commits)</h4>
 - ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square) : **@1vcb** 
 - ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square) : 1vcb@blacknova.cc 
 
