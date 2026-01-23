@@ -12,6 +12,13 @@
 
 ---
 
+### Skills: 
+
+- Java, C++, TypeScript, Node.js, Python, MySQL, 
+- HTML & CSS
+
+---
+
 ### Contact (Open comits)
 - Discord: **@1vcb** 
 - Email: 1vcb@blacknova.cc 
