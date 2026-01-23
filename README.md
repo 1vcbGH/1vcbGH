@@ -15,7 +15,7 @@
 ### Skills: 
 
 - Java, C++, TypeScript, Node.js, Python, MySQL, 
-- HTML & CSS
+- HTML, CSS, PyQt5, Flask, React, TailwindCSS
 
 ---
 
