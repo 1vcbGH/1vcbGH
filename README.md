@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 1vcb  
  <p>CEO and FullTime Developer at <a href="https://dsc.gg/blacknova">BlackNova</a></p>
