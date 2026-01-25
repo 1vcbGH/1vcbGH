@@ -9,7 +9,7 @@
 - CEO at <a href="https://dsc.gg/blacknova">blacknova.cc</a>
 - Developer at <a href="https://discord.gg/elderflame">ElderFlame</a>
 
-- Working in a ScreenShare Tool for Minecraft.
+- Working in a <a href="https://github.com/Sentinel-AC">ScreenShare Tool for Minecraft.</a>
 ---
 
 <h4 align="left">Programming languages</h4>
