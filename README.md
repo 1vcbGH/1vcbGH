@@ -6,8 +6,8 @@
 
 <h4 align="left">Working on</h4> 
 
-- CEO at blacknova.cc (dsc.gg/blacknova)
-- Developer at elderflame.net
+- CEO at <a href="https://dsc.gg/blacknova">blacknova.cc</a>
+- Developer at <a href="https://discord.gg/elderflame">ElderFlame</a>
 
 - Working in a ScreenShare Tool for Minecraft.
 ---
