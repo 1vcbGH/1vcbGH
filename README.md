@@ -9,6 +9,7 @@
 - CEO at blacknova.cc (dsc.gg/blacknova)
 - Developer at elderflame.net
 
+- Working in a ScreenShare Tool for Minecraft.
 ---
 
 <h4 align="left">Programming languages</h4>
