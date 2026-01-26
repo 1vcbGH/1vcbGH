@@ -1,7 +1,7 @@
 <div align="left">
 
 # 1vcb  
- <p>CEO and FullTime Developer at <a href="https://dsc.gg/blacknova">BlackNova</a> & <a href="https://github.com/Sentinel-AC">Sentinel AC</a></p>
+ <p>CEO and FullTime Developer at <a href="https://dsc.gg/blacknova">BlackNova</a> </p>
 </div>
 
 <h4 align="left">Working on</h4> 
@@ -9,7 +9,6 @@
 - CEO at <a href="https://dsc.gg/blacknova">blacknova.cc</a>
 - Developer at <a href="https://discord.gg/elderflame">ElderFlame</a>
 
-- Working in a <a href="https://github.com/Sentinel-AC">ScreenShare Tool for Minecraft.</a>
 ---
 
 <h4 align="left">Programming languages</h4>
