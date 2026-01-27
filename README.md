@@ -49,7 +49,7 @@
 <h4 align="left">Contact me</h4>
 
 <p align="left">
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square"></a> : @1vcb
+<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat"></a> : @1vcb
  
 <a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square"></a> : 1vcb@blacknova.cc 
 
