@@ -1,6 +1,5 @@
 <div align="left">
-<h2>Santiago <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Animated-Flag-Uruguay.gif?20070209182129" width="25"></h2>
-# 1vcb  
+<h2>Santiago <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Animated-Flag-Uruguay.gif?20070209182129" width="25"></h2> 
  <p>CEO and FullTime Developer at <a href="https://dsc.gg/blacknova">BlackNova</a> </p>
 </div>
 
