@@ -10,7 +10,7 @@
 
 ---
 
-<h4 align="left">Programming languages</h4>
+<h4 align="left">Programming languages, html & frameworks</h4>
 
 <p align="left">
 <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
