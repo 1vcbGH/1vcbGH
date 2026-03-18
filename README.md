@@ -6,7 +6,6 @@
 <h4 align="left">Working on</h4> 
 
 - CEO at <a href="https://dsc.gg/blacknova">blacknova.cc</a>
-- Developer at <a href="https://discord.gg/elderflame">ElderFlame</a>
 
 ---
 
