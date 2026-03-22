@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Santiago <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Animated-Flag-Uruguay.gif?20070209182129" width="25"></h1> 
-  <p><strong>CEO & Fullstack Developer</strong> at <a href="https://dsc.gg/blacknova">BlackNova</a></p>
+  <p><strong>CEO & Fullstack Developer</strong> at <a href="https://dsc.gg/blacknova">Impulsodigital</a></p>
 </div>
 
 ---
@@ -8,6 +8,7 @@
 <h2>🚀 Current Work</h2>
 
 - CEO at <a href="https://blacknova.cc">blacknova.cc</a>
+- CEO & Web Dev at <a href="https://impulsodigital.uy">impulsodigital.uy</a>
 
 ---
 
