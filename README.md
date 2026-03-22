@@ -42,14 +42,28 @@
 <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000.svg?logo=three.js&logoColor=white">
 </p>
 
-<h4>Backend & DevOps</h4>
+<h4>Backend</h4>
 
 <p align="left">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white">
+</p>
+
+<h4>DevOps</h4>
+
+<p align="left">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
 <img alt="Make" src="https://img.shields.io/badge/Make-064F8C.svg?logo=gnu&logoColor=white">
+</p>
+
+<h4>Desktop & GUI</h4>
+
+<p align="left">
+<img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52.svg?logo=qt&logoColor=white">
+<img alt="PySide6" src="https://img.shields.io/badge/PySide6-41CD52.svg?logo=qt&logoColor=white">
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white">
+<img alt="ImGui" src="https://img.shields.io/badge/ImGui-000000.svg?logo=imgui&logoColor=white">
 </p>
 
 <h4>Tools & Environment</h4>
