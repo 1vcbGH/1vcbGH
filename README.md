@@ -22,7 +22,6 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
 <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white">
 </p>
 
 <h4>Frontend</h4>
@@ -46,13 +45,33 @@
 
 <p align="left">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white">
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
 </p>
 
-<h4>DevOps</h4>
+<h4>Databases</h4>
+
+<p align="left">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
+</p>
+
+<h4>Auth & Security</h4>
+
+<p align="left">
+<img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white">
+<img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-3C3C3C.svg?logo=oauth&logoColor=white">
+<img alt="Auth0" src="https://img.shields.io/badge/Auth0-EB5424.svg?logo=auth0&logoColor=white">
+</p>
+
+<h4>Infrastructure & DevOps</h4>
 
 <p align="left">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+<img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white">
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
 <img alt="Make" src="https://img.shields.io/badge/Make-064F8C.svg?logo=gnu&logoColor=white">
 </p>
@@ -62,6 +81,7 @@
 <p align="left">
 <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52.svg?logo=qt&logoColor=white">
 <img alt="PySide6" src="https://img.shields.io/badge/PySide6-41CD52.svg?logo=qt&logoColor=white">
+<img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52.svg?logo=qt&logoColor=white">
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white">
 <img alt="ImGui" src="https://img.shields.io/badge/ImGui-000000.svg?logo=imgui&logoColor=white">
 </p>
@@ -72,6 +92,7 @@
 <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white">
 <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
@@ -81,7 +102,7 @@
 
 <p align="left">
 <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white">
-<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white">
+<img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white">
 <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white">
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
 <img alt="Kali" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff">
@@ -89,6 +110,14 @@
 </p>
 
 ---
+
+<h2>📫 Contact</h2>
+
+<p align="left">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat"> @1vcb  
+<br>
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat"> 1vcb@blacknova.cc
+</p>
 
 <h2>📫 Contact</h2>
 
