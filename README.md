@@ -13,7 +13,7 @@
 ---
 
 
-![1vcb's GitHub stats](https://github-readme-stats.vercel.app/api?1vcbGH&commits_year=2026)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=1vcbGH&commits_year=2026)
 
 ---
 
