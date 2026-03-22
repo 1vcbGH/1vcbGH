@@ -12,11 +12,6 @@
 
 ---
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vcbGH&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-
----
-
 <h2>🧠 Tech Stack</h2>
 
 <h4>Languages & Core</h4>
@@ -111,6 +106,10 @@
 <img alt="Kali" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20&%2011-blue">
 </p>
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vcbGH&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
 ---
 
