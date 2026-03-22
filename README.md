@@ -13,7 +13,7 @@
 ---
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1vcbGH&commits_year=2026)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vcbGH&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ---
 
