@@ -12,7 +12,7 @@
 
 ---
 
-[![1vcb's GitHub stats](https://github-readme-stats.vercel.app/api?1vcbGH=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![1vcb's GitHub stats](https://github-readme-stats.vercel.app/api?1vcbGH)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
