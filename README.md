@@ -1,64 +1,84 @@
 <div align="left">
-<h2>Santiago <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Animated-Flag-Uruguay.gif?20070209182129" width="25"></h2> 
- <p>CEO and FullTime Developer at <a href="https://dsc.gg/blacknova">BlackNova</a> </p>
+  <h1>Santiago <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Animated-Flag-Uruguay.gif?20070209182129" width="25"></h1> 
+  <p><strong>CEO & Fullstack Developer</strong> at <a href="https://dsc.gg/blacknova">BlackNova</a></p>
 </div>
-
-<h4 align="left">Working on</h4> 
-
-- CEO at <a href="https://dsc.gg/blacknova">blacknova.cc</a>
 
 ---
 
-<h4 align="left">Programming languages, html & frameworks</h4>
+<h2>🚀 Current Work</h2>
+
+- CEO at <a href="https://blacknova.cc">blacknova.cc</a>
+
+---
+
+<h2>🧠 Tech Stack</h2>
+
+<h4>Languages & Core</h4>
 
 <p align="left">
 <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
 <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-<img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white">
-<img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52.svg?logo=qt&logoColor=white">
 <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
-<img alt="Make" src="https://img.shields.io/badge/Make-064F8C.svg?logo=gnu&logoColor=white">
+</p>
+
+<h4>Frontend</h4>
+
+<p align="left">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
 <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwind-css&logoColor=white">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
 <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-000000.svg?logo=radix-ui&logoColor=white">
 <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF.svg?logo=framer&logoColor=white">
 <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02.svg?logo=greensock&logoColor=black">
 <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000.svg?logo=three.js&logoColor=white">
+</p>
+
+<h4>Backend & DevOps</h4>
+
+<p align="left">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
+<img alt="Make" src="https://img.shields.io/badge/Make-064F8C.svg?logo=gnu&logoColor=white">
+</p>
+
+<h4>Tools & Environment</h4>
+
+<p align="left">
 <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white">
 <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
-<h4 align="left">Software</h4>
+
+<h2>💻 Systems & Software</h2>
 
 <p align="left">
-<a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
-<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
-<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-10%20&%2011-blue"></a>
-<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white">
+<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white">
+<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white">
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
+<img alt="Kali" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff">
+<img alt="Windows" src="https://img.shields.io/badge/Windows-10%20&%2011-blue">
+</p>
 
 ---
-<h4 align="left">Contact me</h4>
+
+<h2>📫 Contact</h2>
 
 <p align="left">
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat"></a> : @1vcb
- 
-<a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat"></a> : 1vcb@blacknova.cc 
-
----
+<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat"> @1vcb  
+<br>
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat"> 1vcb@blacknova.cc
+</p>
