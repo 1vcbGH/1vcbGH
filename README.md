@@ -12,6 +12,10 @@
 
 ---
 
+[![1vcb's GitHub stats](https://github-readme-stats.vercel.app/api?1vcbGH=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <h2>🧠 Tech Stack</h2>
 
 <h4>Languages & Core</h4>
