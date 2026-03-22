@@ -12,7 +12,7 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=1vcbGH&show_icons=true&theme=dark)](https://github.com/1vcbGH)
+
 ![Stats](https://github-readme-stats.vercel.app/api?1vcbGH&commits_year=2026)
 
 ---
