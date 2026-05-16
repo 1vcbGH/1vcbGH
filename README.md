@@ -7,8 +7,8 @@
 
 <h2>🚀 Current Work</h2>
 
+- Full Time CEO and Web Dev at <a href="https://impulsodigital.uy">impulsodigital.uy</a>
 - CEO at <a href="https://blacknova.cc">blacknova.cc</a>
-- Full Time CEO and Web Dev at <a href="https://impulsodigital.uy">impulsodigital.uy</a> (Soon...)
 
 ---
 
