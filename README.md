@@ -112,8 +112,8 @@
 <h2>📫 Contact</h2>
 
 <p align="left">
-<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat"> @1vcb  
+<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat"> @gradle.io
 <br>
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat"> 1vcb@blacknova.cc
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat"> santiago@impulsodigital.uy
 </p>
 
