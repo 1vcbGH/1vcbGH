@@ -9,7 +9,7 @@
 
 - Full Time CEO and Web Dev at <a href="https://impulsodigital.uy">impulsodigital.uy</a>
 - CEO at <a href="https://blacknova.cc">blacknova.cc</a>
-- Developing KernelCore
+ 
 ---
 
 <h2>🧠 Tech Stack</h2>
